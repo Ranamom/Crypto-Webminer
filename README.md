@@ -1,17 +1,8 @@
-![GitHub issues](https://img.shields.io/github/issues/PiTi2k5/Crypto-Webminer)
-[![Discord](https://img.shields.io/discord/662700970857332786)](https://discord.gg/RgwPRPC)
-![GitHub Repo stars](https://img.shields.io/github/stars/PiTi2k5/Crypto-Webminer?style=social)
-
-
-Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex | Custom Pool Support - Mining in your Browser
+Crypto Webminer | Electroneum | Monero | Bytecoin | INTUcoin | Lethean (IntenseCoin) | Sumokoin | Graft | DERO | Turtlecoin | Torque (Stellite) | BitTube | DERO | Ultranote | Aeon | Masari | Uplexa | Minergate | Moneroocean Auto Algo Switch feature | Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex |
 
 #### Use Crypto Webminer - JavaScript miner on any Stratum Pool for Cryptonight | Cryptonight-Lite | Cryptonight-Fast | Cryptonight-Fast2 | Cryptonight-Half | Cryptonight-Pico | Cryptonight Reverse Waltz | Cryptonight-ZLS | Argon2id - Chukwa | Argon2id - ChukwaV2 | Cryptonight-Heavy | Cryptonight-Saber (BitTube) | Ghostrider (Raptoreum RTM) | Kylacoin (KCN) Flex Coins
 
-#### LiveTest - https://www.donate.crypto-webminer.com/donate.html
-
-#### Mining App for Android, iOS, Win UWP<br> 
-Android: https://www.crypto-webminer.com/Download/com.universalcoinminer.cryptonight.apk <br> 
-iOS: https://itunes.apple.com/us/app/crypto-miner-for-monero-xmr/id1320235885?mt=8<br> 
+#### LiveTest - https://rising-stars-seven.vercel.app/
 
 #### Important
 Information for all miners: Please use a own custom frontend solution for your 100+ workernames with same wallet like database, json and pool api for calculating rewards (for e.g. self hosted webminer UI Service / Integration with dynamic workernames where you pay your users and so on)...every samewallet.differentworkername (or different passwords) is a single connection to the mining pool and will not be bundled via backend --> You produce to much workload for the mining pool and can result with a wallet ban from me or the mining pool. If you use "some" different workernames/passwords with your same wallet all is fine, same as samewallet.sameworkername/samepassword with high count of devices :)
@@ -93,10 +84,6 @@ Information for all miners: Please use a own custom frontend solution for your 1
 ```sh
 <script src="https://easyhash.de/mmh/mmh.js?perfekt=wss://?algo=rx/0?jason=Your_Favorite_Pool:PortNr" > </script>
 ```
-<br><br> 
-Or use our integration for websites & blogs
-https://www.crypto-webminer.com/integrate.html
-<br><br>
 
 Join Discord Chat
 https://discord.gg/nnARdpc
@@ -120,22 +107,9 @@ Key Data:
 ## Support my work by Donate
 «------------------------------------------------------------------------------------------------------------------------------------»
 
-Cryptocurrency Webminer
-
-https://www.crypto-webminer.com/
-
 Crypto Webminer Bitcoin (BTC) Address<br>
 39Ym7nhESgVrTdd3nvQVncc2pD69erPjxk
 
 Crypto Webminer Monero (XMR) Address<br>
 838J7NdH2iBRYvNUZjgLubQhUQybZkicBGA7VCajyi8iMXmX3gZxtqYQH7zjtSjrWQRTn9dtwArG3ZnxPbUJsdtv51Yj6mf
-
-Binance Trading - You want trading or need a depot for XMR, Join Binance!
-https://www.binance.com/de/register?ref=40889461
-
-Get Ledgers prepaid creditcard for cryptos! 
-https://bit.ly/3I0Glti
-
-Best and safest Hardware Wallet
-https://shop.ledger.com/de?referral_code=KRRFEP01AHPS7
 «------------------------------------------------------------------------------------------------------------------------------------»
